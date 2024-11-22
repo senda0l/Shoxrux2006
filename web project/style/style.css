@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+    color: #E4E6C3;
+}
+body{
+    background: #899878;
+    color: #E4E6C3;
+}
+.main{
+    margin-bottom: 10px;
+    width: 500px;
+    background: #121113;
+}
+h1{
+    text-align: center;
+    padding-bottom: 10px;
+    background: #121113;
+    margin: auto;
+    font-size: 50px;
+
+}
+section{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+ul li{
+    list-style-type: none;
+}
+
+
+.more{
+    background: #121113;
+    width: 500px;
+}
+
+.movies{
+    background: #121113;
+    display: flex;
+    
+}
+.mov {
+    display: flex;
+    align-content: space-between;
+    flex-wrap: wrap;
+    
+}
+h3{
+    background: #121113;
+    height: 20px;
+}
+li{
+    margin-left: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: #E4E6C3;
+}
+a:hover{
+    text-decoration: underline;
+    transition: 0.5s;
+    
+}
+
+.arrow{
+    height: 50px;
+    width: 100;
+    margin-left: 20px;
+}
+#sec{
+    height: 50px;
+    width: 100;
+    rotate: 180deg;
+    margin-right: 20px;
+}
+
+img{
+    border-radius: 40%;
+}
+.images{
+    display: flex;
+    justify-content: center;
+}
+.items{
+    display: flex;
+    align-items: center;
+}
+.CobWeb{
+    display: flex;
+    margin-top: 20px;
+
+    
+}
+.cob{
+    margin-right: 42px;
+}
+.title{
+    display: flex;
+    margin: 20px 20px;
+}
+
+.neigh{
+    margin-left: 20px;
+    width: 500px;
+
+    background: #121113;
+}
+.thanks{
+    text-align: center;
+    background: #121113;
+    font-size: 50px;
+
+}
